@@ -1,6 +1,6 @@
 # Image-Slider_JS
 
-<b>Link to published project</b>: https://antoninavechorko.github.io/Image-Slider_JS/
+<b>Link to project</b>: https://antoninavechorko.github.io/Image-Slider_JS/
 <br/>
 <b>Stack</b>: JS
 
