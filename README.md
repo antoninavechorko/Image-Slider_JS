@@ -1,4 +1,4 @@
-# Image-Slider2_JS
+# Image-Slider_JS
 
 Link to published project: https://antoninavechorko.github.io/Image-Slider_JS/
 
